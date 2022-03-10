@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | John McCombs</title>
+    <link>/tag/optimization/</link>
+      <atom:link href="/tag/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub3cd72f3e9e76ca92c15d64ad6b050db_39866_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization</title>
+      <link>/tag/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Statewide Application of Wrong-Way Driving Crash Risk Modeling and Countermeasures Optimization Algorithm to Identify Optimal Locations for Countermeasure Deployment on Florida Limited Access Facilities</title>
+      <link>/publication/20210115trr/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/20210115trr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

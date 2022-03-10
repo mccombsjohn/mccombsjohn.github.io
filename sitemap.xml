@@ -4,11 +4,7 @@
   
   
   <url>
-    <loc>/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+    <loc>/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/publication-type/2/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
   <url>
@@ -30,11 +26,31 @@
   <url>
     <loc>/publication/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>/tag/regression/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/tags/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>/publication/20220304trr/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/tag/wwd/</loc><lastmod>2022-03-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/tag/dav/</loc><lastmod>2022-01-10T13:30:00+00:00</lastmod></url>
+  <url>
+    <loc>/author/grady-carrick/</loc><lastmod>2022-01-10T13:30:00+00:00</lastmod></url>
+  <url>
+    <loc>/event/</loc><lastmod>2022-01-10T13:30:00+00:00</lastmod></url>
+  <url>
+    <loc>/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/</loc><lastmod>2022-01-10T13:30:00+00:00</lastmod></url>
+  <url>
+    <loc>/talk/trb-2022-freeway-and-regional-transportation-systems-and-operations-2022/</loc><lastmod>2022-01-10T08:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/talk/fav-2021-summit/</loc><lastmod>2021-11-30T17:30:00+00:00</lastmod></url>
   <url>
     <loc>/author/alan-el-urfali/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/author/ghalia-gamaleldin/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/tag/spf/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/publication/20211101ats/</loc><lastmod>2021-11-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -42,50 +58,22 @@
   <url>
     <loc>/publication/20210426trr/</loc><lastmod>2021-04-26T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>/talk/trb-2021-regional-transportation-systems-management-and-operations-2021/</loc><lastmod>2021-01-25T10:00:00+00:00</lastmod></url>
+  <url>
+    <loc>/tag/optimization/</loc><lastmod>2021-01-15T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>/author/patrick-blue/</loc><lastmod>2021-01-15T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/publication/20210115trr/</loc><lastmod>2021-01-15T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/post/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
-    <loc>/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
-  <url>
     <loc>/publication/20200803jtss/</loc><lastmod>2020-08-03T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
     <loc>/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
   <url>
-    <loc>/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+    <loc>/admin/</loc></url>
   <url>
-    <loc>/tag/demo/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+    <loc>/categories/</loc></url>
   <url>
-    <loc>/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/admin/</loc></url></urlset>
+    <loc>/post/</loc></url></urlset>

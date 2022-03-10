@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAV | John McCombs</title>
+    <link>/tag/dav/</link>
+      <atom:link href="/tag/dav/index.xml" rel="self" type="application/rss+xml" />
+    <description>DAV</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jan 2022 13:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hub3cd72f3e9e76ca92c15d64ad6b050db_39866_512x512_fill_lanczos_center_3.png</url>
+      <title>DAV</title>
+      <link>/tag/dav/</link>
+    </image>
+    
+    <item>
+      <title>TRB 2022: Advancing Safety Through Traffic Law Enforcement</title>
+      <link>/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/</link>
+      <pubDate>Mon, 10 Jan 2022 13:30:00 +0000</pubDate>
+      <guid>/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/</guid>
+      <description>&lt;p&gt;This presentation was sponsored by the Standing Committee on Traffic Law Enforcement (ACS30).  Its associated paper number was TRBAM-22-01574.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAV 2021 Summit</title>
+      <link>/talk/fav-2021-summit/</link>
+      <pubDate>Tue, 30 Nov 2021 17:30:00 +0000</pubDate>
+      <guid>/talk/fav-2021-summit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
