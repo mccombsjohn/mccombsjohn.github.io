@@ -41,6 +41,14 @@
     </item>
     
     <item>
+      <title>Using context classification to develop intersection Safety Performance Functions: national survey of current practices and evaluation of benefits for rural Florida intersections</title>
+      <link>/publication/20211101ats/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/20211101ats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating the benefits of using a context classification system to develop intersection safety performance functions</title>
       <link>/publication/20210602jtss/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
@@ -172,14 +180,6 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Using context classification to develop intersection Safety Performance Functions: national survey of current practices and evaluation of benefits for rural Florida intersections</title>
-      <link>/publication/20211101ats/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/20211101ats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Developing context-specific safety performance functions for Florida intersections to more accurately predict intersection crashes</title>
       <link>/publication/20200803jtss/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
@@ -215,7 +215,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-842176539&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-186794532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -225,7 +225,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-842176539&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-186794532&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
