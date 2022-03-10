@@ -5,12 +5,20 @@
     <link>/author/john-mccombs/</link>
       <atom:link href="/author/john-mccombs/index.xml" rel="self" type="application/rss+xml" />
     <description>John McCombs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/john-mccombs/avatar_hu23ef992e4894657732867ebee23f48fa_809949_270x270_fill_q100_lanczos_center.jpg</url>
       <title>John McCombs</title>
       <link>/author/john-mccombs/</link>
     </image>
+    
+    <item>
+      <title>Using Wrong-Way Driving Detection Data to Identify Factors That Affect Wrong-Way Driving Behavior and Compare Detection Technologies</title>
+      <link>/publication/20220304trr/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/20220304trr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -71,9 +79,9 @@
     
     <item>
       <title>Developing Context-Specific Safety Performance Functions for Florida Intersections to More Accurately Predict Intersection Crashes</title>
-      <link>/publication/jtss20200803/</link>
+      <link>/publication/20200803jtss/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jtss20200803/</guid>
+      <guid>/publication/20200803jtss/</guid>
       <description></description>
     </item>
     

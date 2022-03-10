@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Using Wrong-Way Driving Detection Data to Identify Factors That Affect Wrong-Way Driving Behavior and Compare Detection Technologies</title>
+      <link>/publication/20220304trr/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/20220304trr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -141,9 +149,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Developing Context-Specific Safety Performance Functions for Florida Intersections to More Accurately Predict Intersection Crashes</title>
-      <link>/publication/jtss20200803/</link>
+      <link>/publication/20200803jtss/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jtss20200803/</guid>
+      <guid>/publication/20200803jtss/</guid>
       <description></description>
     </item>
     
@@ -175,7 +183,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-643851729&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-487269351&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -185,7 +193,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-643851729&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-487269351&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
