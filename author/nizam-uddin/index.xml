@@ -5,12 +5,21 @@
     <link>/author/nizam-uddin/</link>
       <atom:link href="/author/nizam-uddin/index.xml" rel="self" type="application/rss+xml" />
     <description>Nizam Uddin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0c5130952ce1a0f3d5be8bff520f4f9b_1722549_512x512_fill_lanczos_center_3.png</url>
       <title>Nizam Uddin</title>
       <link>/author/nizam-uddin/</link>
     </image>
+    
+    <item>
+      <title>Analyzing Disabled Vehicle Incident Durations and Crash Response to Identify Service Patrol Expansions and Reduce the Need for Law Enforcement Involvement</title>
+      <link>/publication/20220315trr/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/20220315trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2022.  The presentation is available &lt;a href=&#34;/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using Wrong-Way Driving Detection Data to Identify Factors That Affect Wrong-Way Driving Behavior and Compare Detection Technologies</title>
@@ -26,28 +35,7 @@
       <link>/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/</link>
       <pubDate>Mon, 10 Jan 2022 13:30:00 +0000</pubDate>
       <guid>/talk/trb-2022-advancing-safety-through-traffic-law-enforcement/</guid>
-      <description>&lt;p&gt;This presentation was sponsored by the Standing Committee on Traffic Law Enforcement (ACS30).  Its associated paper number was TRBAM-22-01574.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;TRB2201574.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+      <description>&lt;p&gt;This presentation was sponsored by the Standing Committee on Traffic Law Enforcement (ACS30).  Its associated paper number was TRBAM-22-01574.  It was later published in Transportation Research Record and is available &lt;a href=&#34;/publication/20220315trr/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
