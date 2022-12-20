@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | John McCombs</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Cumulative Vehicle Diagrams | John McCombs</title>
+    <link>/tag/cumulative-vehicle-diagrams/</link>
+      <atom:link href="/tag/cumulative-vehicle-diagrams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cumulative Vehicle Diagrams</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf66092cce3904e6ee9e182c013f7589b_441777_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Cumulative Vehicle Diagrams</title>
+      <link>/tag/cumulative-vehicle-diagrams/</link>
     </image>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Internal Project</title>
