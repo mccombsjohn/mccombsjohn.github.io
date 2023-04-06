@@ -5,12 +5,21 @@
     <link>/author/adrian-sandt/</link>
       <atom:link href="/author/adrian-sandt/index.xml" rel="self" type="application/rss+xml" />
     <description>Adrian Sandt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 15:45:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_huf66092cce3904e6ee9e182c013f7589b_441777_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_huddc9f87e5cd9d8d3d6f58d77cc4559b4_523496_512x512_fill_lanczos_center_3.png</url>
       <title>Adrian Sandt</title>
       <link>/author/adrian-sandt/</link>
     </image>
+    
+    <item>
+      <title>TRB 2023: Regional Transportation Systems Management and Operations 2023</title>
+      <link>/talk/trb-2023-regional-transportation-systems-management-and-operations-2023/</link>
+      <pubDate>Tue, 10 Jan 2023 15:45:00 +0000</pubDate>
+      <guid>/talk/trb-2023-regional-transportation-systems-management-and-operations-2023/</guid>
+      <description>&lt;p&gt;This lectern session was sponsored by the Standing Committee on Regional Transportation Systems Management and Operations (ACP10).  Its associated paper number was TRBAM-23-00705.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Analyzing Disabled Vehicle Incident Durations and Crash Response to Identify Service Patrol Expansions and Reduce the Need for Law Enforcement Involvement</title>
