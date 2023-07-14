@@ -5,12 +5,38 @@
     <link>/author/john-mccombs/</link>
       <atom:link href="/author/john-mccombs/index.xml" rel="self" type="application/rss+xml" />
     <description>John McCombs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 15:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/john-mccombs/avatar_huc21b49fc8f5bb84bf4825b4222dac1c9_1027087_270x270_fill_q100_lanczos_center.jpg</url>
       <title>John McCombs</title>
       <link>/author/john-mccombs/</link>
     </image>
+    
+    <item>
+      <title>Corridor-level network screening and modeling of fatal and serious injury crashes on urban and suburban arterial corridors in Florida</title>
+      <link>/publication/20230713jtss/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230713jtss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Crowdsourced Data to Reduce Traffic Congestion by Improving Detection of and Response to Disabled or Abandoned Vehicles on Florida Limited-Access Facilities</title>
+      <link>/publication/20230425trr/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230425trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Two Regional Transportation Systems Management and Operations Strategies for Improving the Response to Disabled Vehicles</title>
+      <link>/publication/20230418trr/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230418trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2023.  The presentation is available &lt;a href=&#34;/talk/trb-2023-regional-transportation-systems-management-and-operations-2023/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>TRB 2023: Regional Transportation Systems Management and Operations 2023</title>
@@ -19,6 +45,14 @@
       <guid>/talk/trb-2023-regional-transportation-systems-management-and-operations-2023/</guid>
       <description>&lt;p&gt;This lectern session was sponsored by the Standing Committee on Regional Transportation Systems Management and Operations (ACP10).  Its associated paper number was TRBAM-23-00705.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Study of Operational and Safety Impacts of Disabled and Abandoned Vehicles on FDOT Roadways</title>
+      <link>/publication/finalreportdav/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/finalreportdav/</guid>
+      <description></description>
     </item>
     
     <item>

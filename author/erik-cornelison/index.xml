@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erik Cornelison | John McCombs</title>
+    <link>/author/erik-cornelison/</link>
+      <atom:link href="/author/erik-cornelison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erik Cornelison</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_huddc9f87e5cd9d8d3d6f58d77cc4559b4_523460_512x512_fill_lanczos_center_3.png</url>
+      <title>Erik Cornelison</title>
+      <link>/author/erik-cornelison/</link>
+    </image>
+    
+    <item>
+      <title>Using Crowdsourced Data to Reduce Traffic Congestion by Improving Detection of and Response to Disabled or Abandoned Vehicles on Florida Limited-Access Facilities</title>
+      <link>/publication/20230425trr/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230425trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2023.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study of Operational and Safety Impacts of Disabled and Abandoned Vehicles on FDOT Roadways</title>
+      <link>/publication/finalreportdav/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/finalreportdav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
