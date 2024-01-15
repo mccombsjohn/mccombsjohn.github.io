@@ -5,12 +5,39 @@
     <link>/author/grady-carrick/</link>
       <atom:link href="/author/grady-carrick/index.xml" rel="self" type="application/rss+xml" />
     <description>Grady Carrick</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 08:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huddc9f87e5cd9d8d3d6f58d77cc4559b4_523460_512x512_fill_lanczos_center_3.png</url>
       <title>Grady Carrick</title>
       <link>/author/grady-carrick/</link>
     </image>
+    
+    <item>
+      <title>TRB 2024: Innovative Approaches to Traffic Law Enforcement</title>
+      <link>/talk/trb-2024-innovative-approaches-to-traffic-law-enforcement/</link>
+      <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
+      <guid>/talk/trb-2024-innovative-approaches-to-traffic-law-enforcement/</guid>
+      <description>&lt;p&gt;This lectern session was sponsored by the Standing Committee on Traffic Law Enforcement (ACS30).  Its associated paper number was TRBAM-24-01040.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRB 2024: Transportation Safety Management Systems from Start to Finish</title>
+      <link>/talk/trb-2024-transportation-safety-management-systems-from-start-to-finish/</link>
+      <pubDate>Mon, 08 Jan 2024 18:00:00 +0000</pubDate>
+      <guid>/talk/trb-2024-transportation-safety-management-systems-from-start-to-finish/</guid>
+      <description>&lt;p&gt;This presentation was sponsored by the Standing Committee on Transportation Safety Management Systems (ACS10).  Its associated paper number was TRBAM-24-00048.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving Law Enforcement and Emergency Response to Disabled Vehicle Crashes Using Waze Crowdsourced Data</title>
+      <link>/publication/20230817trr/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230817trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2023.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Using Crowdsourced Data to Reduce Traffic Congestion by Improving Detection of and Response to Disabled or Abandoned Vehicles on Florida Limited-Access Facilities</title>

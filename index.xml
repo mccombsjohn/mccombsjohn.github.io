@@ -5,12 +5,55 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>John McCombs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jan 2024 08:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huddc9f87e5cd9d8d3d6f58d77cc4559b4_523460_512x512_fill_lanczos_center_3.png</url>
       <title>John McCombs</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>TRB 2024: Innovative Approaches to Traffic Law Enforcement</title>
+      <link>/talk/trb-2024-innovative-approaches-to-traffic-law-enforcement/</link>
+      <pubDate>Tue, 09 Jan 2024 08:00:00 +0000</pubDate>
+      <guid>/talk/trb-2024-innovative-approaches-to-traffic-law-enforcement/</guid>
+      <description>&lt;p&gt;This lectern session was sponsored by the Standing Committee on Traffic Law Enforcement (ACS30).  Its associated paper number was TRBAM-24-01040.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRB 2024: Transportation Safety Management Systems from Start to Finish</title>
+      <link>/talk/trb-2024-transportation-safety-management-systems-from-start-to-finish/</link>
+      <pubDate>Mon, 08 Jan 2024 18:00:00 +0000</pubDate>
+      <guid>/talk/trb-2024-transportation-safety-management-systems-from-start-to-finish/</guid>
+      <description>&lt;p&gt;This presentation was sponsored by the Standing Committee on Transportation Safety Management Systems (ACS10).  Its associated paper number was TRBAM-24-00048.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comparison of corridor-level fatal and injury crash models with site-level models for network screening purposes on Florida urban and suburban divided arterials</title>
+      <link>/publication/20240102tip/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/20240102tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASEMFL 2023 Annual Meeting</title>
+      <link>/talk/asemfl-2023-annual-meeting/</link>
+      <pubDate>Fri, 03 Nov 2023 18:45:00 +0000</pubDate>
+      <guid>/talk/asemfl-2023-annual-meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Law Enforcement and Emergency Response to Disabled Vehicle Crashes Using Waze Crowdsourced Data</title>
+      <link>/publication/20230817trr/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/20230817trr/</guid>
+      <description>&lt;p&gt;This paper was presented at TRB 2023.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Corridor-level network screening and modeling of fatal and serious injury crashes on urban and suburban arterial corridors in Florida</title>
